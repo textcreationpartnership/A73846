@@ -1,0 +1,1170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Incipit Donatus minor c[um] Remigio ad vsum pusillo[rum] anglicana[rum] scholariu[m].</title>
+            <title>Ars minor</title>
+            <author>Donatus, Aelius.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1508-1509</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73846</idno>
+            <idno type="STC">STC 7016.5</idno>
+            <idno type="STC">ESTC S125210</idno>
+            <idno type="EEBO-CITATION">99898472</idno>
+            <idno type="PROQUEST">99898472</idno>
+            <idno type="VID">173388</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A73846)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173388)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2039:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Incipit Donatus minor c[um] Remigio ad vsum pusillo[rum] anglicana[rum] scholariu[m].</title>
+                  <title>Ars minor</title>
+                  <author>Donatus, Aelius.</author>
+                  <author>Remigius, of Auxerre, ca. 841-908.</author>
+               </titleStmt>
+               <extent>[24] p.   </extent>
+               <publicationStmt>
+                  <publisher>per wynandu[m] de worde, co[m]morantem (in the Fletestrete) in signo solis,</publisher>
+                  <pubPlace>Impressus Londonus :</pubPlace>
+                  <date>[1508-1509]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>STC (2nd ed.) gives range of dates: 1508-1509.</note>
+                  <note>Signatures: A B⁴; 32 lines per page--STC.</note>
+                  <note>Reproduction of original in the Bodleian Library, Oxford, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="lat">lat</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Latin language --  Grammar --  Early works to 1500.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="lat">
+      <body>
+         <div type="fragment_of_a_grammatical_text">
+            <pb facs="tcp:173388:1" rendition="simple:additions"/>
+            <pb facs="tcp:173388:1"/>
+            <pb facs="tcp:173388:2"/>
+            <pb facs="tcp:173388:2"/>
+            <pb facs="tcp:173388:3"/>
+            <pb facs="tcp:173388:3" rendition="simple:additions"/>
+            <div type="part">
+               <gap reason="missing" extent="1+ pages">
+                  <desc>〈1… pages missing〉</desc>
+               </gap>
+               <div type="section">
+                  <p>
+                     <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>fecto vtina<g ref="char:cmbAbbrStroke">̄</g> docere<g ref="char:cmbAbbrStroke">̄</g> doceres doceret. Et <abbr>plr</abbr> vtina<g ref="char:cmbAbbrStroke">̄</g> 
+                     <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> retis re<g ref="char:cmbAbbrStroke">̄</g>t. Preterito ꝑfecto &amp; pluſ<expan>
+                        <am>
+                           <g ref="char:abquam"/>
+                        </am>
+                        <ex>quam</ex>
+                     </expan>per<g ref="char:EOLhyphen"/>fecto <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> docuiſſem ſes ſet. Et <abbr>plr</abbr> vtinam ſemus ſe<g ref="char:EOLhyphen"/>tis ſent Futuro vtina<g ref="char:cmbAbbrStroke">̄</g> docea<g ref="char:cmbAbbrStroke">̄</g> as at. Et <abbr>plr</abbr> vtinam doc<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e<g ref="char:EOLhyphen"/>mus atis ant. ¶ Coniunctiuo modo tꝑe pn<g ref="char:cmbAbbrStroke">̄</g>ti cu<g ref="char:cmbAbbrStroke">̄</g> docea<g ref="char:cmbAbbrStroke">̄</g> as at. Et <abbr>plr</abbr> cu<g ref="char:cmbAbbrStroke">̄</g> doceamus atis ant. Pto<g ref="char:cmbAbbrStroke">̄</g> imꝑfecto cu<g ref="char:cmbAbbrStroke">̄</g> docere<g ref="char:cmbAbbrStroke">̄</g> res ret. Et <abbr>plr</abbr> cu<g ref="char:cmbAbbrStroke">̄</g> doceremus retis rent. Pto<g ref="char:cmbAbbrStroke">̄</g> ꝑfecto cu<g ref="char:cmbAbbrStroke">̄</g> do<g ref="char:EOLunhyphen"/>cuerim ris rit. Et <abbr>plr</abbr> cu<g ref="char:cmbAbbrStroke">̄</g> docuerimus ritis rint. Pto<g ref="char:cmbAbbrStroke">̄</g> pluſ<g ref="char:EOLunhyphen"/>
+                     <expan>
+                        <am>
+                           <g ref="char:abquam"/>
+                        </am>
+                        <ex>quam</ex>
+                     </expan>ꝑfecto cu<g ref="char:cmbAbbrStroke">̄</g> docuiſſem ſes ſet. Et <abbr>plr</abbr> cu<g ref="char:cmbAbbrStroke">̄</g> docuiſſemus ſetis ſent. Futuro cu<g ref="char:cmbAbbrStroke">̄</g> docuero ris rit. Et <abbr>plr</abbr> cu<g ref="char:cmbAbbrStroke">̄</g> docuerimus ri<g ref="char:EOLhyphen"/>tis rint. ¶ Infinitiuo modo tꝑe pn<g ref="char:cmbAbbrStroke">̄</g>ti &amp; pto<g ref="char:cmbAbbrStroke">̄</g> imꝑfecto do<g ref="char:EOLhyphen"/>cere. Pto<g ref="char:cmbAbbrStroke">̄</g> ꝑfecto et pluſ<expan>
+                        <am>
+                           <g ref="char:abquam"/>
+                        </am>
+                        <ex>quam</ex>
+                     </expan>perfecto docuiſſe. Futuro doctu<g ref="char:cmbAbbrStroke">̄</g> ire vel docturu<g ref="char:cmbAbbrStroke">̄</g> eſſe. ¶ Gerundia vel participalia verba ſunt hec docendi do dum. Supina ſunt hec doctu<g ref="char:cmbAbbrStroke">̄</g> doctu. Duo participia trahunt<expan>
+                        <am>
+                           <g ref="char:abur"/>
+                        </am>
+                        <ex>ur</ex>
+                     </expan> ab hoc verbo actiuo pn<g ref="char:cmbAbbrStroke">̄</g>tis tꝑis et futuri: prefentis vt docens: futuri vt docturus.</p>
+               </div>
+               <div type="section">
+                  <head>¶ In voce paſſiua.</head>
+                  <p>DOceor doceris vel docere docet<expan>
+                        <am>
+                           <g ref="char:abur"/>
+                        </am>
+                        <ex>ur</ex>
+                     </expan>. Et <abbr>plr</abbr> docemur cemini centur. Preterito imperfecto docebar ba<g ref="char:EOLhyphen"/>ris vel bare batur. Et <abbr>plr</abbr> docebamur bamini bant<expan>
+                        <am>
+                           <g ref="char:abur"/>
+                        </am>
+                        <ex>ur</ex>
+                     </expan>. Pre<g ref="char:EOLhyphen"/>terito ꝑfecto doctus ſum vel fui es vel fuiſti eſt vel fuit. Et <abbr>plr</abbr> docti ſumus vel fuimus eſtis vel fuiſtis ſunt fue<g ref="char:EOLhyphen"/>ru<g ref="char:cmbAbbrStroke">̄</g>t vel fuere. Preterito pluſ<expan>
+                        <am>
+                           <g ref="char:abquam"/>
+                        </am>
+                        <ex>quam</ex>
+                     </expan>perfecto doctus eram vel fueram eras vel fueras erat vel fuerat. Et <abbr>plr</abbr> docti <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>mus vel fueramus eratis vel fuerat<gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Futuro docebor beris vel bere bitu<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> bimini buntur. ¶ Imꝑatiuo mod<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> et terciam perſona<g ref="char:cmbAbbrStroke">̄</g> docere atur. Et <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>ceantur. Futuro doceor tu vel ill<gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>or centor. ¶ Optatiuo modo <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> perfecto vtina<g ref="char:cmbAbbrStroke">̄</g> docerer reris <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <pb facs="tcp:173388:4"/>vtina<g ref="char:cmbAbbrStroke">̄</g> doctus eſſem vel fuiſſem <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>es vel <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>es fuiſſet. Et <abbr>plr</abbr> vtinam docti eſſemus vel fu<gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>mus eſſe<g ref="char:EOLhyphen"/>tis vel fuiſſetis eſſent vel fuiſſent. Futur<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> a<g ref="char:cmbAbbrStroke">̄</g> docear aris vel are atur. Et <abbr>plr</abbr> vtinam doceamur amini antur. ¶ Coniunctiuo modo tꝑe pn<g ref="char:cmbAbbrStroke">̄</g>ti cu<g ref="char:cmbAbbrStroke">̄</g> docear aris vel are at<expan>
+                        <am>
+                           <g ref="char:abur"/>
+                        </am>
+                        <ex>ur</ex>
+                     </expan>. Et <abbr>plrru<g ref="char:cmbAbbrStroke">̄</g>
+                     </abbr> doceamur amini antur. Pto<g ref="char:cmbAbbrStroke">̄</g> imperfecto cu<g ref="char:cmbAbbrStroke">̄</g> do<g ref="char:EOLhyphen"/>cete<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rer<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s vel rere ret<expan>
+                        <am>
+                           <g ref="char:abur"/>
+                        </am>
+                        <ex>ur</ex>
+                     </expan>. Et <abbr>plr</abbr> cu<g ref="char:cmbAbbrStroke">̄</g> doceremur remini rent<expan>
+                        <am>
+                           <g ref="char:abur"/>
+                        </am>
+                        <ex>ur</ex>
+                     </expan> Pto<g ref="char:cmbAbbrStroke">̄</g> ꝑfecto cu<g ref="char:cmbAbbrStroke">̄</g> doctus ſim vel fuerim ſis vel fueris ſit vel fuerit. Et <abbr>plr</abbr> cu<g ref="char:cmbAbbrStroke">̄</g> docti ſimus vel fuerimus ſitis vel fueri<g ref="char:EOLhyphen"/>tis ſint vel fuerint. Pto<g ref="char:cmbAbbrStroke">̄</g> pluſ<expan>
+                        <am>
+                           <g ref="char:abquam"/>
+                        </am>
+                        <ex>quam</ex>
+                     </expan>ꝑfecto cu<g ref="char:cmbAbbrStroke">̄</g> doctus eſſem vel fuiſſem eſſes vel fuiſſes eſſet vel fuiſſet. Et <abbr>plr</abbr> docti eſſe<g ref="char:EOLhyphen"/>mus vel fuiſſemus eſſetis vel fuiſſetis eſſent vel fuiſſent Futuro cum doctus ero vel fuero eris vel fueri<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>it vel fuerit. Et <abbr>plr</abbr> cu<g ref="char:cmbAbbrStroke">̄</g> docti erimus vel fuerimꝰ eritis vel fue<g ref="char:EOLhyphen"/>ritis erint vel fuerint. ¶ Infinitiuo modo tꝑe pn<g ref="char:cmbAbbrStroke">̄</g>ti &amp; pto<g ref="char:cmbAbbrStroke">̄</g> imꝑfecto doceri. Pto<g ref="char:cmbAbbrStroke">̄</g> ꝑfecto et pluſ<expan>
+                        <am>
+                           <g ref="char:abquam"/>
+                        </am>
+                        <ex>quam</ex>
+                     </expan>perfecto doctu<g ref="char:cmbAbbrStroke">̄</g> eſſe vel fuiſſe. Futuro doctum iri. ¶ Duo participia trahunt<expan>
+                        <am>
+                           <g ref="char:abur"/>
+                        </am>
+                        <ex>ur</ex>
+                     </expan> ab hoc verbo paſſiuo: preteriti temporis et futuri prete<g ref="char:EOLhyphen"/>riti vt do<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tus: futuri vt docendus.</p>
+               </div>
+            </div>
+            <div type="part">
+               <div type="section">
+                  <head>¶ Indicatiuo mode <abbr>tꝑe</abbr> pn<g ref="char:cmbAbbrStroke">̄</g>ti.</head>
+                  <p>LEgo legis legit. Et <abbr>plr</abbr> legimus legitis legunt. Pto<g ref="char:cmbAbbrStroke">̄</g> imꝑfecto legeba<g ref="char:cmbAbbrStroke">̄</g> bas bat. Et <abbr>plr</abbr> legebamus batis bant. Pto<g ref="char:cmbAbbrStroke">̄</g> perfecto legi legiſti legit. Et <abbr>plr</abbr> legimus <gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>iſtis geru<g ref="char:cmbAbbrStroke">̄</g>t vel <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>e. Pto<g ref="char:cmbAbbrStroke">̄</g> pluſ<expan>
+                        <am>
+                           <g ref="char:abquam"/>
+                        </am>
+                        <ex>quam</ex>
+                     </expan>perfecto legera<g ref="char:cmbAbbrStroke">̄</g> ras rat. <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> ratis ra<g ref="char:cmbAbbrStroke">̄</g>t. Futuro lega<g ref="char:cmbAbbrStroke">̄</g> ges get. Et <abbr>plr</abbr> 
+                     <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> ¶ Imꝑatiuo mo<g ref="char:cmbAbbrStroke">̄</g> tꝑe pn<g ref="char:cmbAbbrStroke">̄</g>ti ad ſecunda<g ref="char:cmbAbbrStroke">̄</g> 
+                     <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> legat. Et <abbr>plr</abbr> legamus gite gant. Fu<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Et <abbr>plr</abbr> legamꝰ gitote gu<g ref="char:cmbAbbrStroke">̄</g>to vel gun<g ref="char:EOLunhyphen"/>
+                     <gap reason="illegible" extent="2+ letters">
+                        <desc>••…</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> tꝑe pn<g ref="char:cmbAbbrStroke">̄</g>ti <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> pto imꝑfecto v<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ina<g ref="char:cmbAbbrStroke">̄</g> le<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> legeremꝰ r<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>is rent. Pte<g ref="char:cmbAbbrStroke">̄</g> ꝑfecto <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>ſſe<g ref="char:cmbAbbrStroke">̄</g> ſes ſet. Et <abbr>plr</abbr> vtina<g ref="char:cmbAbbrStroke">̄</g> legiſſe <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>mus
+<pb facs="tcp:173388:4"/>ſetis ſent. Futuro vtina<g ref="char:cmbAbbrStroke">̄</g> lega<g ref="char:cmbAbbrStroke">̄</g> gas gat. Et <abbr>plr</abbr> vtina<g ref="char:cmbAbbrStroke">̄</g> legamus gatis ga<g ref="char:cmbAbbrStroke">̄</g>t. ¶ Co<g ref="char:cmbAbbrStroke">̄</g>iunctiuo modo tꝑe pn<g ref="char:cmbAbbrStroke">̄</g>ti cu<g ref="char:cmbAbbrStroke">̄</g> lega<g ref="char:cmbAbbrStroke">̄</g> gas. vtia<g ref="char:cmbAbbrStroke">̄</g> s<g ref="char:cmbAbbrStroke">̄</g>. Pto<g ref="char:cmbAbbrStroke">̄</g> imꝑfecto cu<g ref="char:cmbAbbrStroke">̄</g> legere<g ref="char:cmbAbbrStroke">̄</g>. vts<g ref="char:cmbAbbrStroke">̄</g>. Pto<g ref="char:cmbAbbrStroke">̄</g> perfecto cu<g ref="char:cmbAbbrStroke">̄</g> legerim ris rit. Et <abbr>plr</abbr> cu<g ref="char:cmbAbbrStroke">̄</g> legerimus ritis rint. Pto<g ref="char:cmbAbbrStroke">̄</g> pluſ<g ref="char:EOLhyphen"/>
+                     <expan>
+                        <am>
+                           <g ref="char:abquam"/>
+                        </am>
+                        <ex>quam</ex>
+                     </expan>perfec<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o cu<g ref="char:cmbAbbrStroke">̄</g> legiſſem ſes ſet. Et <abbr>plr</abbr> cu<g ref="char:cmbAbbrStroke">̄</g> legiſſemus ſetis ſent. Futuro cu<g ref="char:cmbAbbrStroke">̄</g> legero ris rit. Et <abbr>plr</abbr> cu<g ref="char:cmbAbbrStroke">̄</g> legerimus ritis rint. ¶ Infinitiuo modo tꝑe pn<g ref="char:cmbAbbrStroke">̄</g>ti &amp; pto<g ref="char:cmbAbbrStroke">̄</g> imꝑfecto legere. Pto<g ref="char:cmbAbbrStroke">̄</g> ꝑfecto &amp; pluſ<expan>
+                        <am>
+                           <g ref="char:abquam"/>
+                        </am>
+                        <ex>quam</ex>
+                     </expan>perfecto legiſſe. Futuro lectu<g ref="char:cmbAbbrStroke">̄</g> ire vel lecturum eſſe. ¶ Gerundia vel participalia verba ſunt hec legendi do dum. Supina ſunt lectum lectu. ¶ Duo participia trahunt<expan>
+                        <am>
+                           <g ref="char:abur"/>
+                        </am>
+                        <ex>ur</ex>
+                     </expan> ab hoc verbo actiuo pn<g ref="char:cmbAbbrStroke">̄</g>ti &amp; futuri pre<g ref="char:EOLunhyphen"/>ſentis vt legens: futuri vt lecturus.</p>
+               </div>
+               <div type="section">
+                  <head>¶ In voce paſſiua.</head>
+                  <p>LEgor geris vel gere git7abur;. Et <abbr>plr</abbr> legimur gemini. guntur. Pto<g ref="char:cmbAbbrStroke">̄</g> imperfecto legebar baris vel bare bat<expan>
+                        <am>
+                           <g ref="char:abur"/>
+                        </am>
+                        <ex>ur</ex>
+                     </expan>. Et <abbr>plr</abbr> bamur bamini bant<expan>
+                        <am>
+                           <g ref="char:abur"/>
+                        </am>
+                        <ex>ur</ex>
+                     </expan>. Pto<g ref="char:cmbAbbrStroke">̄</g> ꝑfecto lectus ſum vel fui es vel fuiſti eſt vel fuit. Et <abbr>plr</abbr> lecti ſumus vel fui<g ref="char:EOLhyphen"/>mus eſtis vel fuiſtis ſu<g ref="char:cmbAbbrStroke">̄</g>t fueru<g ref="char:cmbAbbrStroke">̄</g>t vel fuere. Pto<g ref="char:cmbAbbrStroke">̄</g> pluſ<expan>
+                        <am>
+                           <g ref="char:abquam"/>
+                        </am>
+                        <ex>quam</ex>
+                     </expan>per<g ref="char:EOLhyphen"/>fecto lectus era<g ref="char:cmbAbbrStroke">̄</g> vel fuera<g ref="char:cmbAbbrStroke">̄</g> eras vel fueras erat vel fuerat: Et <abbr>plr</abbr> lecti eramus vel fueramꝰ eratis vel fueratis era<g ref="char:cmbAbbrStroke">̄</g>t vel fuerant. Futu<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> gar geris vel gere getur. Et <abbr>plr</abbr> ge mur gemini gentur. ¶ Imperatiuo modo tꝑe pn<g ref="char:cmbAbbrStroke">̄</g>ti ad ſe<g ref="char:EOLunhyphen"/>cunda<g ref="char:cmbAbbrStroke">̄</g> et tercia<g ref="char:cmbAbbrStroke">̄</g> perſona<g ref="char:cmbAbbrStroke">̄</g> legere legat<expan>
+                        <am>
+                           <g ref="char:abur"/>
+                        </am>
+                        <ex>ur</ex>
+                     </expan>. Et <abbr>plr</abbr> legamur gi<g ref="char:EOLhyphen"/>mini gant<expan>
+                        <am>
+                           <g ref="char:abur"/>
+                        </am>
+                        <ex>ur</ex>
+                     </expan>. Futuro legitor tu vel ille. Et <abbr>plr</abbr> legamur ge<g ref="char:EOLhyphen"/>minor gu<g ref="char:cmbAbbrStroke">̄</g>tor. ¶ Optatiuo modo tꝑe pn<g ref="char:cmbAbbrStroke">̄</g>ti et p<g ref="char:cmbAbbrStroke">̄</g>terito imꝑ<g ref="char:EOLhyphen"/>fecto <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>inam legerer reris vel rere retur. Et <abbr>plr</abbr> vtina<g ref="char:cmbAbbrStroke">̄</g> le<g ref="char:EOLhyphen"/>geremus remini rentur. Pto<g ref="char:cmbAbbrStroke">̄</g> perfecto et pluſ<expan>
+                        <am>
+                           <g ref="char:abquam"/>
+                        </am>
+                        <ex>quam</ex>
+                     </expan>perfecto vtinam lectus eſſem vel fuiſſem eſſes vel fuiſſes eſſet vel fuiſſe<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Et <abbr>plr</abbr> 
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tinam lecti eſſemus vel fuiſſemus eſſetis vel fuiſſetis eſſent vel fuiſſent. Futuro vtinam legar ga<g ref="char:EOLhyphen"/>ris vel gare gatur. Et <abbr>plr</abbr> vtinam legamur gamin<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>n<g ref="char:EOLunhyphen"/>tur. ¶ Coniunctiuo modo tꝑe preſenti cu<g ref="char:cmbAbbrStroke">̄</g> legar. vt ia<g ref="char:cmbAbbrStroke">̄</g>. <abbr>s</abbr>.</p>
+                  <pb facs="tcp:173388:5"/>
+               </div>
+               <div type="section">
+                  <p>Preterito imperfecto cum legerer. vts<g ref="char:cmbAbbrStroke">̄</g>. in optat<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uo. Pre<g ref="char:EOLhyphen"/>terito perfecto cum lectus ſim vel fuerim ſis vel fueris fit vel fueeit. Et <abbr>plr</abbr> cum lecti ſimus vel fuerimus ſitis vel fueritis ſint vel fuerint. Preterito pluſ<expan>
+                        <am>
+                           <g ref="char:abquam"/>
+                        </am>
+                        <ex>quam</ex>
+                     </expan>perfecto cu<g ref="char:cmbAbbrStroke">̄</g> lectus eſſem vel fuiſſem eſſes vel fuiſſes eſſet ve. fuiſſet. Et <abbr>plr</abbr> cum lecti eſſemus vel fuiſſemus eſſetis vel fuiſſe<g ref="char:EOLhyphen"/>tis eſſent vel fuiſſent. Futuro cum lectus ero vel fuero eris vel fueris erit vel fuerit. Et <abbr>plr</abbr> cu<g ref="char:cmbAbbrStroke">̄</g> lecti erimus vel fuerimus eritis vel fueritis erint vel fuerint. ¶ Infini<g ref="char:EOLhyphen"/>tiuo modo tempore preſenti et preterito imperfecto legi. Preterito perfecto &amp; pluſ<expan>
+                        <am>
+                           <g ref="char:abquam"/>
+                        </am>
+                        <ex>quam</ex>
+                     </expan>perfecto lectum eſſe vel fuiſſe Futuro lectum iri. ¶ Duo participia trahuntur ab hoc verbo paſſiuo: preteritum et futuru<g ref="char:cmbAbbrStroke">̄</g>: preteritu<g ref="char:cmbAbbrStroke">̄</g> vt lectus: futurum vt legendus.</p>
+                  <trailer>¶ Sequitur quarta coniugatio.</trailer>
+               </div>
+            </div>
+            <div type="part">
+               <p>¶ Indicatiuo modo tꝑe pn<g ref="char:cmbAbbrStroke">̄</g>ti.</p>
+               <p>AVdio audis audit. Et <abbr>plr</abbr> au<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>mus auditis au<g ref="char:EOLhyphen"/>diunt. Preterito imperfecto audieba<g ref="char:cmbAbbrStroke">̄</g> audiebas audiebat. Et <abbr>plr</abbr> audiebamus audiebatis audieba<g ref="char:cmbAbbrStroke">̄</g>t. Pre<g ref="char:EOLhyphen"/>terito perfecto audiui audiuiſti audiuit. Et <abbr>plr</abbr> audiui<g ref="char:EOLhyphen"/>mus audiuiſtis audiueru<g ref="char:cmbAbbrStroke">̄</g>t vel audiuere. Pto<g ref="char:cmbAbbrStroke">̄</g> pluſ<expan>
+                     <am>
+                        <g ref="char:abquam"/>
+                     </am>
+                     <ex>quam</ex>
+                  </expan>per<g ref="char:EOLhyphen"/>fecto audiueram audiueras audiuerat. Et <abbr>plr</abbr> audiuera<g ref="char:EOLhyphen"/>mus audiueratis audiuerant. Futuro audia<g ref="char:cmbAbbrStroke">̄</g> audies au<g ref="char:EOLhyphen"/>diet. Et <abbr>plr</abbr> audiemus audietis audient. ¶ Imparatiuo modo tꝑe p<g ref="char:cmbAbbrStroke">̄</g>ſenti ad ſecunda<g ref="char:cmbAbbrStroke">̄</g> et tercia<g ref="char:cmbAbbrStroke">̄</g> ꝑſona<g ref="char:cmbAbbrStroke">̄</g> audi audiat. Et <abbr>plr</abbr> audiamus audite audiant. Futuro audito tu vel ille. Et pluraliter audiamus tote audiu<g ref="char:cmbAbbrStroke">̄</g>to vel audiu<g ref="char:cmbAbbrStroke">̄</g>tote. ¶ Optatiuo modo tꝑe pn<g ref="char:cmbAbbrStroke">̄</g>ti &amp; pto<g ref="char:cmbAbbrStroke">̄</g> im<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>fecto vtina<g ref="char:cmbAbbrStroke">̄</g> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>udire res ret. Et <abbr>plr</abbr> vtina<g ref="char:cmbAbbrStroke">̄</g> audiremus retis rent. Pto<g ref="char:cmbAbbrStroke">̄</g> ꝑ<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>cto et pluſ<expan>
+                     <am>
+                        <g ref="char:abquam"/>
+                     </am>
+                     <ex>quam</ex>
+                  </expan>ꝑfecto vtina<g ref="char:cmbAbbrStroke">̄</g> audiuiſſem ſes ſet. Et <abbr>plr</abbr> vtinam au<g ref="char:EOLunhyphen"/>di<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſſemus ſetis ſent. Futuro vtina<g ref="char:cmbAbbrStroke">̄</g> audia<g ref="char:cmbAbbrStroke">̄</g> as at. Et <abbr>plr</abbr> vtinam audiamus atis ant. ¶ Co<g ref="char:cmbAbbrStroke">̄</g>iunctiuo mod<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <abbr>tpore</abbr>
+                  <pb facs="tcp:173388:5" rendition="simple:additions"/>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> pn<g ref="char:cmbAbbrStroke">̄</g>ti cu<g ref="char:cmbAbbrStroke">̄</g> audia<g ref="char:cmbAbbrStroke">̄</g> as at. Et <abbr>plr</abbr> cum a<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> imꝑfecto cu<g ref="char:cmbAbbrStroke">̄</g> audire<g ref="char:cmbAbbrStroke">̄</g>. vt ſu. in opta<gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>diuerim ris rit. Et <abbr>plr</abbr> cum audiu<gap reason="illegible" extent="6 letters">
+                     <desc>••••••</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> pluſ<expan>
+                     <am>
+                        <g ref="char:abquam"/>
+                     </am>
+                     <ex>quam</ex>
+                  </expan>perfecto cu<g ref="char:cmbAbbrStroke">̄</g> audiuiſſem ſes <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>mus ſetis ſent. Futuro cu<g ref="char:cmbAbbrStroke">̄</g> audiue<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>diuerimus ritis rint. ¶ Infinitu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> preterito imperfecto audire. Pre<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ꝑfecto audiuiſſe. Futuro auditu<g ref="char:cmbAbbrStroke">̄</g> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ¶ Gerundia vel participalia ver<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>dum. Supina auditum tu. ¶ D<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ab hoc verbo actiuo preſentis ten<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>tis vt audient futuri vt auditur<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </p>
+               <div type="section">
+                  <head>In voce paſſiu<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </head>
+                  <p>AVdior diris vel dire ditur <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>ni diuntur. Pto<g ref="char:cmbAbbrStroke">̄</g> imperfe<gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> bare batur. Et <abbr>plr</abbr> bamur bamini <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>dicus ſum vel fui es vel fuiſti eſ<gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> ſumus vel fuimus eſtis vel fuiſtis <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Preterito pluſ<expan>
+                        <am>
+                           <g ref="char:abquam"/>
+                        </am>
+                        <ex>quam</ex>
+                     </expan>perfecto auditus <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> fueras erat vel fuerat. Et <abbr>plr</abbr> au<gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>mus eratis vel fueratis erant v<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>diar dieris vel diere diet<expan>
+                        <am>
+                           <g ref="char:abur"/>
+                        </am>
+                        <ex>ur</ex>
+                     </expan>. Et <abbr>plr</abbr> 
+                     <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> ¶ Imꝑatiuo modo tꝑe pn<g ref="char:cmbAbbrStroke">̄</g>ti ad <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> a<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>dire diat<expan>
+                        <am>
+                           <g ref="char:abur"/>
+                        </am>
+                        <ex>ur</ex>
+                     </expan>. Et pluraliter audia<gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> auditor tu vel ille. Et <abbr>plr</abbr> audian<gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> ¶ Optatiuo modo tꝑe pn<g ref="char:cmbAbbrStroke">̄</g>ti &amp; pto<g ref="char:cmbAbbrStroke">̄</g> 
+                     <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> reris vel rere ret<expan>
+                        <am>
+                           <g ref="char:abur"/>
+                        </am>
+                        <ex>ur</ex>
+                     </expan>. Et <abbr>plr</abbr> v<gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> ꝑfecto et pluſ<expan>
+                        <am>
+                           <g ref="char:abquam"/>
+                        </am>
+                        <ex>quam</ex>
+                     </expan>perfecto vtina<g ref="char:cmbAbbrStroke">̄</g> 
+                     <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> eſſes vel fuiſſes eſſet vel fuiſſ<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>mus vel fuiſſemus eſſetis vel <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Futuro vtina<g ref="char:cmbAbbrStroke">̄</g> audiar aris <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>diamur amini ant<expan>
+                        <am>
+                           <g ref="char:abur"/>
+                        </am>
+                        <ex>ur</ex>
+                     </expan>. ¶ Co<g ref="char:cmbAbbrStroke">̄</g>i<gap reason="illegible" extent="7 letters">
+                        <desc>〈7 letters〉</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <pb facs="tcp:173388:6"/>
+                     <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>d cu<g ref="char:cmbAbbrStroke">̄</g> audirer reris. vt in optatiuo. <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>ſim vel fueri<g ref="char:cmbAbbrStroke">̄</g> ſis vel fueris ſit vel <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>imus vel fuerimus ſitis vel fue<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>to<g ref="char:cmbAbbrStroke">̄</g> pluſ<expan>
+                        <am>
+                           <g ref="char:abquam"/>
+                        </am>
+                        <ex>quam</ex>
+                     </expan>ꝑfecto cu<g ref="char:cmbAbbrStroke">̄</g> auditus eſſem <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>ſſes eſſet vel fuiſſet. Et <abbr>plr</abbr> cu<g ref="char:cmbAbbrStroke">̄</g> au<g ref="char:EOLunhyphen"/>
+                     <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>us eſſetis vel fuiſſetis e<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſent vel <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>itus ero vel fuero eris vel fueris <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>um auditi erimus vel fuerimus vel fuerint. Infinitiuo mo<g ref="char:cmbAbbrStroke">̄</g> tem<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> audiri. Pto<g ref="char:cmbAbbrStroke">̄</g> ꝑfecto &amp; pluſ<expan>
+                        <am>
+                           <g ref="char:abquam"/>
+                        </am>
+                        <ex>quam</ex>
+                     </expan>per<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" extent="5 letters">
+                        <desc>•••••</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>ſſe. Futuro auditu<g ref="char:cmbAbbrStroke">̄</g> iri. Duo par<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>erbo paſſiue / preteritu<g ref="char:cmbAbbrStroke">̄</g> et futuru<g ref="char:cmbAbbrStroke">̄</g> 
+                     <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> futuru<g ref="char:cmbAbbrStroke">̄</g> vt audiendus.</p>
+               </div>
+            </div>
+            <trailer>
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>licit donatus.</trailer>
+         </div>
+         <div type="fragmentary_grammar">
+            <head>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>cipit Remigius.</head>
+            <p>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ars? Nomen. Quare? Quia ſigni<g ref="char:EOLunhyphen"/>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>cu<g ref="char:cmbAbbrStroke">̄</g> qualitate ꝓprie vel co<g ref="char:cmbAbbrStroke">̄</g>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. Cuius <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ue. Quare? Quia pluribꝰ rebus <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Robertus cuius qualitatis? Pro<g ref="char:EOLunhyphen"/>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>uenit naturaliter ex ꝑſona noi<g ref="char:cmbAbbrStroke">̄</g>s <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>clinat<g ref="char:cmbAbbrStroke">̄</g> dn<g ref="char:cmbAbbrStroke">̄</g>s? N<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<g ref="char:cmbAbbrStroke">̄</g> hic <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is gto<g ref="char:cmbAbbrStroke">̄</g> hu<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>cut magiſter in bo<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>o. Cuius ca<g ref="char:EOLunhyphen"/>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Quia rectus caſus eſt &amp; oe<g ref="char:cmbAbbrStroke">̄</g>s obliq<g ref="char:EOLunhyphen"/>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nitiui / quia in tali caſu declinan<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>m retinet. Cuius numeri ſingu<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ofert<expan>
+                  <am>
+                     <g ref="char:abur"/>
+                  </am>
+                  <ex>ur</ex>
+               </expan>. Cuius generis? Maſcu<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>r hic. Si femininu<g ref="char:cmbAbbrStroke">̄</g> / qr de<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eclinat<g ref="char:cmbAbbrStroke">̄</g> per hoc. Si co<g ref="char:cmbAbbrStroke">̄</g>is / qui. <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eclinat<g ref="char:cmbAbbrStroke">̄</g> ꝑ hic &amp; hec &amp; ho<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> aliqn<g ref="char:cmbAbbrStroke">̄</g> in feminino n<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>epicheni gn<g ref="char:cmbAbbrStroke">̄</g>is / qr ſub vno <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ehendit: vt paſſe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+            <p>
+               <pb facs="tcp:173388:6" rendition="simple:additions"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>po<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t &amp; certa ſignificat ꝑ<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>me / quare? Quia ſignificat rem d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> qr ſignificat rem ad qua<g ref="char:cmbAbbrStroke">̄</g> fit ſerm<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ficat rem de qua fit ſermo. Cuiu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> quare? qr gtu<g ref="char:cmbAbbrStroke">̄</g>s ſuus ſingularis d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n i. Si ſecund<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> declinationis / <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> definit in ius &amp; dtu<g ref="char:cmbAbbrStroke">̄</g>s in i vel in c. <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> quia gtu<g ref="char:cmbAbbrStroke">̄</g>s ſuus ſingularis defini<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> quarte declinationis / quia geniti<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>init in atis &amp; dtu<g ref="char:cmbAbbrStroke">̄</g>s in ati. vt in do<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <p>AMo que pars? Verbu<g ref="char:cmbAbbrStroke">̄</g> / qu<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> mis &amp; temporibus agend<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>iuu<g ref="char:cmbAbbrStroke">̄</g> eſt. Cuius modi? Indicatiu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> demonſtrat. Si imꝑatiui / quia r<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>rat. Cuius generis? Actiui / qr de<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>pere <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r ſuꝑo / et facere ex ſe paſſiuu<g ref="char:cmbAbbrStroke">̄</g>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in r &amp; poteſt dimitterer &amp; redire i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <p>HOdie que pars? Aduerbiu<g ref="char:cmbAbbrStroke">̄</g> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> et ſemper nititur ei ad eius <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Cuius ſignificationis? Temporis <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <p>AMans que pars? Particip<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> n<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ine partem a verbo <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Quid capita noi<g ref="char:cmbAbbrStroke">̄</g>e? Genera &amp; caſu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>is &amp; ſignificatio<g ref="char:cmbAbbrStroke">̄</g>es. Quid ab vtr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Amans cuius temporis? Preſe<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> definens <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>el in ens pn<g ref="char:cmbAbbrStroke">̄</g>tis t<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Amatus cuius tꝑis? Preteriti / <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>iens in tus vel in ſus eſt <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Amaturus cuius tꝑis? Futur<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>iens in rus vel in dus eſt futuri t<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb facs="tcp:173388:7"/>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> orationis in <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rome. Cuius po<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>auſalis. Da cauſales. vt ſi etſi eti<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+            </p>
+            <p>Prepoſitio / quare? Quia preponit<expan>
+                  <am>
+                     <g ref="char:abur"/>
+                  </am>
+                  <ex>ur</ex>
+               </expan> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> orationis in ordine. ¶ Cui caſu? Prepoſitiones caſus accuſatiui: vt <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>onato.</p>
+            <p>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>teriectio / quare? Quia interiacet orationis in ordine. Cuius ſigni<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>. doloris / quia dolorem mentis <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> cum Remigis / impreſſus Lon<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> de Worde / co<g ref="char:cmbAbbrStroke">̄</g>morantem (in the <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſolis.</p>
+            <p>
+               <figure>
+                  <p>
+                     <figure>
+                        <figDesc>sun and stars, representing the sign of the Sun</figDesc>
+                     </figure>
+                  </p>
+                  <p>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <figure>
+                        <figDesc>47</figDesc>
+                     </figure> C</p>
+                  <p>
+                     <gap reason="illegible" extent="2 words">
+                        <desc>〈◊◊〉</desc>
+                     </gap> worde.</p>
+                  <figDesc>Caxton's printer's device, appropriated by Wynkyn de Worde</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:173388:7"/>
+         </div>
+      </back>
+   </text>
+</TEI>
